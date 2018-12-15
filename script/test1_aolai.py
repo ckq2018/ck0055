@@ -38,3 +38,6 @@ class TestAoLai():
         self.page.page_password(pwd)
         # 第五步,点击登录
         self.page.page_enter()
+        
+    def test01(self):
+        print("最美中国")
